@@ -1,4 +1,4 @@
----
+
 
 # 🛡️ Shannon Coder Server
 
@@ -8,7 +8,7 @@ Shannon Coder Server is a transparent, open-source API server designed to provid
 
 > **⚠️ Disclaimer:** This tool is designed for security research, red teaming, and educational purposes. Please use responsibly and ethically.
 
----
+
 
 ## ⚡ Key Capabilities
 
